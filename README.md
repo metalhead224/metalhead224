@@ -1,3 +1,3 @@
 Hello there!
 Thanks for stopping by..
-<https://wwww.sumanosti.com.np>
+<https://www.sumanosti.com.np>
