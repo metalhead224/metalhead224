@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **suman.osti401@gmail.com**
 
-- ⚡ I love to play **guitar, sing and write songs.**
+- ⚡ I love to play **guitar, sing, write songs and to go hiking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
