@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Osti.</h1>
 <h3 align="center">A fullstack web developer.</h3>
 
-- 🔭 I’m currently working on **various exiting projects.**
+- 🔭 I’m currently working on **content management system.**
 
 - 🌱 I’m continously learning **to enhance my skills.**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **suman.osti401@gmail.com**
 
-- ⚡ I love to play guitar **, sing and write songs.**
+- ⚡ I love to play **guitar, sing and write songs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
