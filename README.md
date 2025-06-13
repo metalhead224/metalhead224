@@ -5,8 +5,6 @@
 
 - 🌱 I’m continously learning **to enhance my skills.**
 
-- 👨‍💻 All of my projects are available at [https://sumanosti.com.np/](https://sumanosti.com.np/)
-
 - 💬 Ask me about **.Net, ReactJs and Angular.**
 
 - 📫 How to reach me **suman.osti401@gmail.com**
