@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suman Osti.</h1>
 <h3 align="center">A fullstack web developer.</h3>
 
-- 🔭 I’m currently working on **content management system.**
+- 🌱 I’m continously learning **cause learning is best thing to be better version of ourself.**
 
-- 🌱 I’m continously learning **to enhance my skills.**
-
-- 💬 Ask me about **.Net, ReactJs and Angular.**
+- 💬 Ask me about **Application for Web, Mobile and DevOps. (End to End)**
 
 - 📫 How to reach me **suman.osti401@gmail.com**
 
