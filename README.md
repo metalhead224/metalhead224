@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Suman Osti from Winchester, Virginia.<br><br>- 🔭 I’m working as Fullstack Software Engineer.<br>-
+<p align="left">I'm Suman Osti from Winchester, Virginia.<br><br>- 🔭 I’m working as Fullstack Software Engineer.
 
 ###
 
