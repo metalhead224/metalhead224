@@ -60,7 +60,7 @@
 ###
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=metalhead224&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=metalhead224&theme=dark&hide_border=false&cache_seconds=86400" />
 </p>
 
 ###
