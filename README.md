@@ -40,7 +40,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure,react,rabbitmq,angular&perline=1" height="40" alt="azure react rabbitmq angular"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure react rabbitmq angular"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="azure react rabbitmq angular"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="azure react rabbitmq angular"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="azure react rabbitmq angular"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
