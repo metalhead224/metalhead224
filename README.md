@@ -59,8 +59,8 @@
 
 ###
 
-<div align="center">
-  <img src="![GitHub Streak](https://streak-stats.demolab.com?user=metalhead224&theme=dark&hide_border=false)" height="300" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=metalhead224&theme=dark&hide_border=false" />
+</p>
 
 ###
